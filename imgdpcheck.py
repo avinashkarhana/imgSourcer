@@ -39,4 +39,4 @@ for a in range(1,f+1):
         f.write(str(a)+",duplicate\n")
         f.close()
         print(str(a)+" duplicate")
-    browser.close()
+    browser.quit()
